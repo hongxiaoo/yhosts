@@ -34,6 +34,3 @@
 
 任何你想用而我屏蔽的网址，你都可以下载以后sed，你不会？请自己Google。
 
-
-一份号外（转自目前唯一授权的去广告DNS服务）：
-【通知】由于本人无意侵犯到onekeyhosts的经济利益，现fundns受到onekeyhosts污蔑，称fundns存在劫持做广告，此事对fundns造成不可逆的恶劣影响，有没有劫持行为，相信fundns的用户心中自有公道。此事对fundns维护团队影响深刻，经过认真考虑，以及基于当前形势，fundns维护团队决定在下月（11月）24日服务器到期时停服，停服前fundns将正常为大家提供解析服务。fundns是一个公益项目，fundns运行所依赖的hosts源来自网络上公开的项目，fundns维护团队由衷感谢以下伙伴：racaljk，sy 618，wangchunming，laod，i-meto，同时，也感谢那些默默提供可用ip以及贡献出自己sni服务器的小伙伴。最后，引用某vpn提供商的一句话:相见有时，后会无期。
